@@ -1,5 +1,6 @@
 # BG_Changer
-This is Simple React project where Background Changer is implemented using UseState Concept.
+This is a Simple React project where Background Changer is implemented using the UseState Concept.
+<hr/>
 <br/>
 Created the app using npx create-react-app command.
 <br/>
